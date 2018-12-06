@@ -4,14 +4,7 @@
 
 * campionamento
   * esempi di campionamento progressivo
-* quantizzazione
-  * esempi di errore di quantizzazione
-* linearità
-  * somme di segnali
-  * moltiplicazioni tra segnali e scalari
-* tempo-invarianza
-  * shift temporali
-* segnali reali
-  * `wavread`, `wavwrite`
-  * non-tempo-invarianza
-* rumore bianco
+
+# Lavagne
+
+![witheboard 1](./TR_II_CSEDSM_1_2018-12-05_14.51.47_1.jpg)
