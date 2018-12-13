@@ -7,13 +7,7 @@
 * *oversampling*
   * interpolazione lineare
   * punti random
-* linearità
-  * somme di segnali
-  * moltiplicazioni tra segnali e scalari
-* tempo-invarianza
-  * shift temporali
-* segnali reali
-  * `wavread`, `wavwrite`
-  * non-tempo-invarianza
-* rumore bianco
 
+## Lavagne
+
+![whiteboard 1](./TR_II_CSEDSM_1_2018-12-12_15.46.26.jpg)
