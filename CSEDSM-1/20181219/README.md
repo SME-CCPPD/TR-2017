@@ -49,7 +49,7 @@ Questo codice produce i seguenti grafici:
 
 *Somma di due segnali identici fuori fase (pseudo-correlati)*
 
-![somma pseudo-correlata (due segnali identici fuori fase)[./linear_sum_corr_out_of_phase.jpg]
+![somma pseudo-correlata (due segnali identici fuori fase)](./linear_sum_corr_out_of_phase.jpg)
 
 *Somma di due segnali non correlati*
 
