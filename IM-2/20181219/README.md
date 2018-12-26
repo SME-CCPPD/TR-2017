@@ -4,12 +4,11 @@
 
 * Strumentario e concetti di *strumento musicale*:
   * compilatori di suoni:
-    * `csound` - introduzione:
-      * esempi:
-        * inviluppi di frequenza (vibrato)
-        * pitch-class converter
     * `SuperCollider` - introduzione:
-      * funzioni anonime
-      * busses
-      * scoping (bugged!)
-      * scheduling
+      * programmazione strutturata
+      * programmazione a oggetti
+      * struttura *client-server*
+
+# Lavagne
+
+![whiteboard 1](./TR_II_IM_2_2018-12-19_16.07.01_1.jpg)
