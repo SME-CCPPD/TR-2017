@@ -1,4 +1,4 @@
-# IM 2 - Lezione del 19 dicembre 2018
+# IM 2 - Lezione del 9 gennaio 2019
 
 ## Argomenti
 
