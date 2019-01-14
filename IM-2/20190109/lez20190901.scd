@@ -1,16 +1,3 @@
-# IM 2 - Lezione del 9 gennaio 2019
-
-## Argomenti
-
-* Strumentario e concetti di *strumento musicale*:
-  * compilatori di suoni:
-    * `SuperCollider` - introduzione:
-      * funzioni anonime
-      * scoping (bugged!)
-
-## [Codice `SuperCollider` sperimentato in classe](./lez20190901.scd)
-
-```sclang
 3+5
 "hello world".postln
 s.boot
@@ -85,4 +72,3 @@ s.boot
 )
 
 3%2
-```
